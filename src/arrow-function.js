@@ -5,6 +5,8 @@
  * although without its own bindings to the this, arguments, super, or new.target keywords. 
  * 
  * Arrow function expressions are all suited as methods, and they cannot be used as constructors.
+ * 
+ * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
  */
 
 const teams = [
@@ -15,7 +17,7 @@ const teams = [
     { name: 'Newcastle',         cups: '3' }
 ];
 
-// teams.map(team => console.log(team.cups));
+teams.map(team => console.log(`Club Name: ${team.name}`));
 
 teams.map(team => ({
     faCupWins: team.cups
