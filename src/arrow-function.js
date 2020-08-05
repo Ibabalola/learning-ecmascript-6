@@ -6,6 +6,8 @@
  * 
  * Arrow function expressions are all suited as methods, and they cannot be used as constructors.
  * 
+ * An arrow function points to whatever the function returns and is used to keep 'this' in scope
+ * 
  * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
  */
 

@@ -3,7 +3,10 @@
  * 
  * Array constructor takes either a list of elements 
  * Or a number to signify how many spaces the array
- * should have 
+ * should have.
+ * 
+ * The purpose of object literal enhancements is for 
+ * shorter syntax, less typing
  */
 
  const thisIsMyShowSize = 8;
