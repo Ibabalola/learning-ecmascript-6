@@ -1,7 +1,9 @@
 /**
  * Desctructuring assignment
  * 
- * Gives us an easy way to extract data from Arrays, Objects and asign them variables
+ * Gives us an easy way to extract data from Arrays, Objects and assign them variables
+ * 
+ * It can be used in functions, objects and arrays
  * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
  */
 
