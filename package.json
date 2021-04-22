@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Ibabalola/learning-ECMAScript-6#readme",
   "devDependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
